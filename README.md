@@ -8,10 +8,10 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome:Patrick Souza 
+- Matricula:907014
+- Proposta de projeto escolhida:Lugares
+- Breve descrição sobre seu projeto:Site em que pessoas podem encontrar cidades e pontos turísticos
 
 ## Print da versão responsiva com CSS puro [DESKTOP]
 
